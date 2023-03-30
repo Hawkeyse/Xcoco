@@ -26,7 +26,7 @@ global.premium = ['233508968298'] //ur premium number
 global.botname = 'Virtual kombat' //ur bot name
 global.themeemoji = "♻️" //ur theme emoji
 global.packname = "Sticker By Timtech" //ur sticker watermark packname
-global.author = "Timtech //ur sticker watermark author
+global.author = "Timtech" //ur sticker watermark author
 global.wm = "Timtech" //ur watermark
 
 // Other
